@@ -1,1 +1,1 @@
-# Number-Gussing-
+# Number-Gussing-Game-using-JavaScirpt
